@@ -231,8 +231,3 @@ print result
 
 
 
-
-
-
-
-
