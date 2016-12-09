@@ -14,7 +14,6 @@ tokens = reservadas+['ID','NUMBER','PLUS','MINUS','TIMES','DIVIDE',
 		'DOT','UPDATE'
 		]
 
-
 #tokens = tokens+reservadas
 
 # reservadas = {
