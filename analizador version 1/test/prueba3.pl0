@@ -1,0 +1,4 @@
+IF w <= r THEN BEGIN
+      r := r - w;
+      q := q + 1
+    END

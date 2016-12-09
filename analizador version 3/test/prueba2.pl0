@@ -1,0 +1,10 @@
+BEGIN
+  a := x;
+  b := y;
+  z := 0;
+  WHILE b > 0 DO BEGIN
+    IF ODD b THEN z := z + a;
+    a := 2 * a;
+    b := b / 2
+  END
+END;

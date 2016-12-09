@@ -1,0 +1,8 @@
+VAR f, n;
+PROCEDURE fact;
+	BEGIN
+		n:= n-1;
+		IF n = 0 THEN f := 1;
+		IF n > 0 THEN CALL fact;
+		f:=f*ans1;
+	END;

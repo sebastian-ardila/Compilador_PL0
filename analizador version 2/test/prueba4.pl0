@@ -1,0 +1,11 @@
+BEGIN
+ x := m;
+ y := n;
+ CALL multiply;
+ x := 25;
+ y :=  3;
+ CALL divide;
+ x := 84;
+ y := 36;
+ CALL gcd
+END

@@ -1,0 +1,12 @@
+CONST K = 20;
+
+VAR m, n, k, count;
+
+BEGIN
+    m := 1;
+    n := 1;
+    k := 1;
+    count := 0;
+    
+    WHILE count <= K DO
+END
